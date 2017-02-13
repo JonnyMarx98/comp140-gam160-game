@@ -10,4 +10,7 @@ The runs will be timed so the goal of the game is to reach the bottom as fast as
 
 There will be power-ups which help the player in different ways such as speed boost to get to end faster or jump boost to make it easier to jump over obstacles.
 
+# Other potential ideas
+Another idea I had was to have a joystick on the controller which would be used to jump and do tricks which would give you points. If this was included then a seperate game mode should be made where the goal is to get a high score rather than a fast time.   
+
 
