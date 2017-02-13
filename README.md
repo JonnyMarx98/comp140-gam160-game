@@ -8,6 +8,6 @@ The core game mechanics will be avoiding obstacles while skating down a hill. Th
 
 The runs will be timed so the goal of the game is to reach the bottom as fast as possible. There will be gold silver and bronze times to aim for. Obtaining medals could unlock new outfits or clothing items. 
 
-There will be collectables which help the player in different ways such as speed boost to get to end faster or jump boost to make it easier to jump over obstacles.
+There will be power-ups which help the player in different ways such as speed boost to get to end faster or jump boost to make it easier to jump over obstacles.
 
 
