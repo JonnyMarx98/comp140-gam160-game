@@ -23,3 +23,4 @@ The main part of my controller will be the finger board which will have the MPU-
 
 
 ## Design 
+![controller design](https://github.com/JonnyMarx98/comp140-gam160-game/blob/master/controller%20design.PNG)
